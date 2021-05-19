@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![result](result/desktop.jpg)
+![result](/result/desktop.png)
 
 ### Built with
 
